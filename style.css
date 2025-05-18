@@ -1,5 +1,7 @@
-h1
-{text-align: left;
-border-color: darkorange;
-font-size: 300%;
-margin-left: 10px;}
+body
+{background-color: rgb(49, 49, 49);
+color: mediumvioletred;
+font-style: italic;
+font-size: 150%;
+margin-left: 15%;
+margin-right: 35%;}
